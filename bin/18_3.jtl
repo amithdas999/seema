@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="207" it="0" lt="18" ct="5" ts="1718691622785" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: bsdbh
+age :34</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="213" it="0" lt="34" ct="2" ts="1718691623779" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: bjbsh
+age :27</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="57" it="0" lt="11" ct="1" ts="1718691624780" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: dasbb
+age :31</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="112" it="0" lt="13" ct="1" ts="1718691625778" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: hjshb
+age :17</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="377" it="0" lt="50" ct="1" ts="1718691626779" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: bshjs
+age :32</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="51" it="0" lt="45" ct="3" ts="1718691627779" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: gbdjb
+age :21</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="267" it="0" lt="47" ct="2" ts="1718691628775" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: gskjs
+age :48</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="145" it="0" lt="16" ct="2" ts="1718691629776" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: kghbd
+age :12</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="75" it="0" lt="15" ct="3" ts="1718691630774" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: dhads
+age :32</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+<sample t="459" it="0" lt="22" ct="5" ts="1718691631777" s="true" lb="jp@gc - Dummy Sampler1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" de="" by="19" sby="0" sc="1" ec="0" ng="1" na="1" hn="AmithDas">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">name: absds
+age :21</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">Dummy Sampler used to simulate requests and responses
+without actual network activity. This helps debugging tests.</samplerData>
+</sample>
+
+</testResults>
